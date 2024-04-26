@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://github.com/pedrohenrickzx/pedrohenrickzx/assets/168144134/af14ea2a-a64e-41ea-ad89-74acb4eb2d41" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 ### 👋 Olá, meu nome é Pedro Henrick.
 <p>Explorador no universo da programação!</p>
