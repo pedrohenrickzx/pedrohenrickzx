@@ -1,7 +1,7 @@
 <img src="https://github.com/pedrohenrickzx/pedrohenrickzx/assets/168144134/af14ea2a-a64e-41ea-ad89-74acb4eb2d41" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-### 👋 Olá, meu nome é Pedro Henrick.
-<p>Explorador no universo da programação!</p>
+### 👋 Oi, muito prazer, me chamo Pedro Henrick.
+<p>Explorando o mundo da programação com curiosidade e determinação.</p>
 
 - 🎓 Cursando em **Analise e Desenvolvimento de Sistemas**
 
