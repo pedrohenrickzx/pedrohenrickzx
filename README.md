@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+  <img align="left" height="250" alt="coding-time" src="code.gif">
 
 ### 👋 Olá, meu nome é Pedro Henrick.
 <p>Explorador no universo da programação!</p>
@@ -20,7 +20,7 @@
 <hr>
 
 
-### 🚀 Principais tecnologias
+### 🚀 Principal tecnologia
   
 <div style="display: inline_block">
   <img align="center" alt="ph-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
